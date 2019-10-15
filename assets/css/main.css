@@ -19,9 +19,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: font-family "Raleway", sans-serif;
-  font-weight: 400;
-  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 200 400 700;
+  font-size: 100px 70px 50px 18px;
 }
 
 header {
@@ -47,8 +47,24 @@ header {
 .start__container {
   padding-top: 245px;
   padding-bottom: 237px;
-  padding-left: 364px;
-  padding-right: 364px;
+  padding-left: 360px;
+  padding-right: 360px;
+}
+
+.start__container__h1 {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  margin: 0px;
+  font-weight: 200;
+  font-size: 70px;
+}
+
+.start__container__h1__span {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 70px;
 }
 
 footer {
