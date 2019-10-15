@@ -109,4 +109,30 @@ footer {
   height: auto;
 }
 
+.us {
+  width: 100%;
+  height: auto;
+}
+
+.us__container {
+  background-color: #e56553;
+  padding-top: 98px;
+  padding-bottom: 92px;
+  padding-left: 152px;
+  padding-right: 152px;
+  text-align: center;
+}
+
+.us__title {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 70px;
+  color: #fff;
+}
+
+.us__articule {
+  background-color: #fff;
+}
+
 /*# sourceMappingURL=main.css.map */
