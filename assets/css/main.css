@@ -38,4 +38,31 @@ header {
   height: auto;
 }
 
+.start {
+  width: 100%;
+  height: auto;
+  background-color: #e56553;
+}
+
+.start__container {
+  padding-top: 245px;
+  padding-bottom: 237px;
+  padding-left: 364px;
+  padding-right: 364px;
+}
+
+footer {
+  text-align: left;
+  padding: 10px 90px 10px;
+}
+
+.footer__container {
+  padding-left: 0px;
+}
+
+.footer__logo {
+  width: 270px;
+  height: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
