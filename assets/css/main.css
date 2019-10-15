@@ -67,6 +67,34 @@ header {
   font-size: 70px;
 }
 
+.about {
+  width: 100%;
+  height: auto;
+}
+
+.about__container1 {
+  background-color: #91918d;
+  padding-left: 175px;
+  padding-right: 175px;
+  padding-top: 77px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.about__container2 {
+  background-color: #fff;
+  padding-left: 175px;
+  padding-right: 175px;
+  padding-top: 77px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.about__image {
+  width: 915px;
+  height: auto;
+}
+
 footer {
   text-align: left;
   padding: 10px 90px 10px;

@@ -1,14 +1,24 @@
  .about{
-   background-color: $taupegray;
    width: 100%;
    height: auto; 
 }
-.about__container{
+.about__container1{
+    background-color: $taupegray;
     padding-left: 175px;
     padding-right: 175px;
     padding-top: 77px;
     padding-bottom: 50px;
+    text-align: center;
+}
+.about__container2{
+    background-color: $white;
+    padding-left: 175px;
+    padding-right: 175px;
+    padding-top: 77px;
+    padding-bottom: 50px;
+    text-align: center;
 }
 .about__image{
-    width: 927px;
+    width: 915px;
+    height: auto;
 }
