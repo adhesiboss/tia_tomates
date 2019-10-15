@@ -1,3 +1,41 @@
+body {
+  margin: 0px;
+}
 
+img {
+  max-width: 100%;
+}
+
+body {
+  height: 100vh;
+  background-color: #fff;
+  box-sizing: cover;
+  background-position: 80%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: font-family "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+header {
+  text-align: left;
+  padding: 10px 90px 10px;
+}
+
+.header__container {
+  padding-left: 0px;
+}
+
+.header__logo {
+  width: 270px;
+  height: auto;
+}
 
 /*# sourceMappingURL=main.css.map */
