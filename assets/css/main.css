@@ -116,6 +116,7 @@ header {
   font-size: 50px;
   font-family: "Raleway", sans-serif;
   margin-bottom: 30px;
+  text-decoration: none;
 }
 
 .about2__p {
@@ -126,6 +127,7 @@ header {
   width: 550px;
   margin: auto;
   line-height: 25px;
+  text-decoration: none;
 }
 
 .about__image {
