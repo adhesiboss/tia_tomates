@@ -1,0 +1,27 @@
+.start{
+    width: 100%;
+    height: auto;
+    background-color: $jellybean;
+}
+.start__container{
+    padding-top: 245px;
+    padding-bottom: 237px;
+    padding-left: 360px;
+    padding-right: 360px;
+}
+.start__container__h1{
+    color: $white;
+    font-family: $raleway;
+    text-align: center;
+    margin: 0px;
+    font-weight: $extraligth;
+    font-size: $x-large; 
+    white-space: nowrap;
+}
+.start__container__h1__span{
+    font-family: $raleway;
+    text-align: center;
+    font-weight: $bold;
+    font-size: $x-large; 
+    white-space: nowrap;
+}

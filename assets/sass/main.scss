@@ -8,14 +8,19 @@
 
 
 @import 'base/reset';
+@import 'base/base';
 @import 'base/typography';
 
 @import 'layout/navigation';
 @import 'layout/grid';
 @import 'layout/header';
+@import 'layout/start';
+@import 'layout/about';
 @import 'layout/footer';
 @import 'layout/sidebar';
 @import 'layout/forms';
+@import 'layout/us';
+@import 'layout/contact';
 
 @import 'components/buttons';
 @import 'components/carousel';
