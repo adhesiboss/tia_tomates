@@ -96,16 +96,12 @@ header {
 }
 
 footer {
-  text-align: left;
+  background-color: #686963;
   padding: 10px 90px 10px;
 }
 
-.footer__container {
-  padding-left: 0px;
-}
-
 .footer__logo {
-  width: 270px;
+  width: 198px;
   height: auto;
 }
 
@@ -117,7 +113,7 @@ footer {
 
 .us__container {
   background-color: #e56553;
-  padding-top: 98px;
+  padding-top: 67px;
   padding-bottom: 92px;
   padding-left: 152px;
   padding-right: 152px;
@@ -143,6 +139,29 @@ footer {
 .us__image {
   width: 364px;
   height: auto;
+}
+
+.contact {
+  width: 100%;
+  height: auto;
+}
+
+.contact__container {
+  background-color: #e56553;
+  padding-top: 98px;
+  padding-bottom: 92px;
+  padding-left: 325px;
+  padding-right: 325px;
+  text-align: center;
+}
+
+.contact__title {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  white-space: nowrap;
+  font-weight: 700;
+  font-size: 50px;
+  color: #fff;
 }
 
 /*# sourceMappingURL=main.css.map */

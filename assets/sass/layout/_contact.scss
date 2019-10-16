@@ -1,0 +1,20 @@
+.contact{
+    width: 100%;
+    height: auto;
+}
+.contact__container{
+    background-color: $jellybean;
+    padding-top: 98px;
+    padding-bottom: 92px;
+    padding-left: 325px;
+    padding-right: 325px;
+    text-align: center;
+}
+.contact__title{
+    font-family: $raleway;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: $bold;
+    font-size: $large; 
+    color: $white;
+}
