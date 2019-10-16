@@ -1,4 +1,4 @@
-# tia_tomates
+# Tia_tomates
 > Creando HTML de proyecto usando BEM
 ![](header.jpg)
 
