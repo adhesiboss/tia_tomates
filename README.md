@@ -15,7 +15,7 @@ Los entregables se encuentran en el archivo Apoyo Desafío - Tía Tomate
 Por último deben hacer entrega de un archivo comprimido con todos los archivos necesarios para
 comenzar a maquetar la página.
 
-##Requisitos
+## Requisitos
 
 - Crear estructura base del proyecto (0.05 puntos)
 - Crear directorios necesarios para el proyecto
