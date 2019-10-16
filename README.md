@@ -1,5 +1,5 @@
 # Tia_tomates
-> Creando HTML de proyecto usando BEM
+> Sass aplicado HTML de proyecto usando BEM
 ![](header.jpg)
 
 ## Instrucciones.
