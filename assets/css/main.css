@@ -112,6 +112,7 @@ footer {
 .us {
   width: 100%;
   height: auto;
+  padding-bottom: 100px;
 }
 
 .us__container {
@@ -133,6 +134,15 @@ footer {
 
 .us__articule {
   background-color: #fff;
+  padding-top: 84px;
+  padding-left: 280px;
+  padding-right: 280px;
+  text-align: center;
+}
+
+.us__image {
+  width: 364px;
+  height: auto;
 }
 
 /*# sourceMappingURL=main.css.map */
