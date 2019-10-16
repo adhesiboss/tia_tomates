@@ -84,8 +84,22 @@ header {
 .about__h3 {
   color: #fff;
   text-align: center;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 30px;
+}
+
+.about__p {
+  color: #fff;
+  text-align: justify;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
+  width: 550px;
+  margin: auto;
+}
+
+.about__2 .about__h3 .about__p {
+  color: #686963;
 }
 
 .about__container2 {
