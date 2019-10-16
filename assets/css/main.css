@@ -81,12 +81,19 @@ header {
   text-align: center;
 }
 
+.about__h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+}
+
 .about__container2 {
   background-color: #fff;
   padding-left: 175px;
   padding-right: 175px;
   padding-top: 77px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   text-align: center;
 }
 
@@ -166,8 +173,16 @@ footer {
 }
 
 .contact__button {
-  border-radius: 3px;
+  border-radius: 40px;
   color: #686963;
+  font-family: "Raleway", sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 35px;
+  width: 364px;
+  height: 66px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
 /*# sourceMappingURL=main.css.map */
